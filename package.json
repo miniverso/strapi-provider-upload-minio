@@ -1,0 +1,17 @@
+{
+  "name": "strapi-provider-upload-minio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "strapi.io",
+    "upload",
+    "provider",
+    "minio"
+  ],
+  "author": "Bruno S L Almeida",
+  "license": "MIT"
+}
