@@ -1,6 +1,6 @@
 {
-  "name": "strapi-provider-upload-minio",
-  "version": "1.0.0",
+  "name": "strapi-provider-upload-mv-minio",
+  "version": "1.0.3",
   "description": "",
   "main": "./lib",
   "directories": {
